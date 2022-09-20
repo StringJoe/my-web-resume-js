@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    border-bottom-style: solid;
+}
+
+#contact-info {
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+    left: 25%;   
+}
+
+#header-border {
+    border-bottom-style: solid;
+}
+
+#date-format {
+    margin-left: 175px;
+}
+
+#project-font {
+    font-weight: bold;
+}
+
+#align-all-sections {
+    margin-left: 25px;
+}
