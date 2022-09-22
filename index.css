@@ -4,14 +4,13 @@ h1 {
     border-bottom-style: solid;
 }
 
-#contact-info {
-    display: inline-block;
-    margin: 15px;
-    position: relative;
-    left: 25%;   
+.contact-info {
+    margin-left: 5%;
+    display: inline; 
+    font-size: 15px;
 }
 
-#header-border {
+.header-border {
     border-bottom-style: solid;
 }
 
@@ -19,10 +18,10 @@ h1 {
     margin-left: 175px;
 }
 
-#project-font {
+.project-font {
     font-weight: bold;
 }
 
-#align-all-sections {
+.align-all-sections {
     margin-left: 25px;
 }
