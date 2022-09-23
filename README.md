@@ -1,6 +1,7 @@
  # Project: my-web-resume-js
 
 Name: Joseph Santay 
+
 School Email: josephasantay@lewisu.edu
 
 ## Non-original content: 
