@@ -4,10 +4,30 @@ h1 {
     border-bottom-style: solid;
 }
 
+.contact-head {
+    border-bottom-style: solid;
+    text-align: center;
+}
+
+/* 
+the code on lines 18, 19, and 25 were taken from this website:
+https://unused-css.com/blog/css-horizontal-lists/
+*/
 .contact-info {
-    margin-left: 5%;
     display: inline; 
     font-size: 15px;
+    border-right: 1px solid;
+    padding: 0 0.5rem;
+}
+
+.last-item-contact {
+    display: inline; 
+    font-size: 15px;
+    padding: 0 0.5rem;
+}
+
+li a {
+    text-align: center;
 }
 
 .header-border {
